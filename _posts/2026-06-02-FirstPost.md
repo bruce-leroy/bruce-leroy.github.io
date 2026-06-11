@@ -1,5 +1,6 @@
 ---
 title: Mon premier entraînment
+description: Short summary of the post.
 categories: [workout]
 tags: [poids]
 ---
