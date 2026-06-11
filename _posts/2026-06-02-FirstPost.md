@@ -1,6 +1,6 @@
 ---
 title: Mon premier entraînment
-categories: [WORKOUT]
+categories: [workout]
 tags: [poids]
 ---
 
